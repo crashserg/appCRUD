@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd48c50e-9b67-41b5-b863-c3421296c4de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/employers-add-form/employers-add-form.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/components/app-filter/app-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/app-filter/app-filter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/components/app-info/app-info.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/app-info/app-info.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/components/employers-add-form/employers-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/employers-add-form/employers-add-form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/components/employers-list-item/employers-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/employers-list-item/employers-list-item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/components/employers-list/employers-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/employers-list/employers-list.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/components/search-panel/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/search-panel/search-panel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +105,7 @@
       <workItem from="1741799128670" duration="7553000" />
       <workItem from="1741811887544" duration="145000" />
       <workItem from="1741812037488" duration="269000" />
-      <workItem from="1741814811933" duration="2810000" />
+      <workItem from="1741814811933" duration="4631000" />
     </task>
     <servers />
   </component>
