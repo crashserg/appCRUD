@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd48c50e-9b67-41b5-b863-c3421296c4de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/employers-add-form/employers-add-form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/app-filter/app-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/app-filter/app-filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/app-info/app-info.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/app-info/app-info.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/employers-add-form/employers-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/employers-add-form/employers-add-form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/components/employers-list-item/employers-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/employers-list-item/employers-list-item.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/components/employers-list/employers-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/employers-list/employers-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/search-panel/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/search-panel/search-panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Node.js.employers-list-item.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -58,11 +67,20 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/my-app/src/components/app-info" />
@@ -88,7 +106,12 @@
       <workItem from="1741607953161" duration="4375000" />
       <workItem from="1741614077809" duration="888000" />
       <workItem from="1741618504082" duration="5873000" />
-      <workItem from="1741690031083" duration="2935000" />
+      <workItem from="1741690031083" duration="13861000" />
+      <workItem from="1741716785168" duration="653000" />
+      <workItem from="1741799128670" duration="7553000" />
+      <workItem from="1741811887544" duration="145000" />
+      <workItem from="1741812037488" duration="269000" />
+      <workItem from="1741814811933" duration="2810000" />
     </task>
     <servers />
   </component>
